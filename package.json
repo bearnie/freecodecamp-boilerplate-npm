@@ -2,6 +2,11 @@
 	"author": "Bearniezeborg",
 	"name": "fcc-learn-npm-package-json",
 	"description": "My first npm project",
+	"keywords": [
+		"freecodecamp",
+		"npm challenges",
+		"training"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
